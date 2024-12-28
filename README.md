@@ -1,4 +1,3 @@
-# .github
 
 
 # The team behind [Portal: Singularity Collapse](https://store.steampowered.com/app/2882850/Portal_Singularity_Collapse/)
